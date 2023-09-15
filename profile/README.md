@@ -1,5 +1,4 @@
 # BookCaseCode We Do Code and Scripting 
 
 ## join to 
-![](https://tenor.com/view/simpsons-homer-bart-lisa-join-us-gif-13066208)
-
+![](https://github.com/BookCaseCode/.github/blob/main/profile/simpsons-homer.gif)
